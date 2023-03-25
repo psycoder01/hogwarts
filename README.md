@@ -1,4 +1,5 @@
-## sbt project compiled with Scala 3
+## Hogwarts
+A simple file system implementation in scala 3
 
 ### Usage
 
